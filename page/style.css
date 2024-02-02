@@ -1,7 +1,12 @@
 .start{
    text-align: start;
+   display: inline;
 }
 span{
  margin-right: 25px;
-text-align: end;
+ display: inline;
+}
+.p{
+    text-align: center;
+    display: inline;
 }
