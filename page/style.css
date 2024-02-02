@@ -39,7 +39,7 @@ span{
     padding-left: 700px;
     display: inline;
     width: 300px;
-    position: fixed;
+    position: absolute;
     
 }
 .r{
@@ -51,5 +51,18 @@ span{
     border-radius: 5px;
     display: inline;
     margin-left: 50px;
+}
+.e{
+    text-align: center;
+    color: gray;
+}
+.q{
+    text-align: center;
+}
+.s{
+    display: inline;
+    width: 100px;
+    margin-right: 85px;
+    
 }
 
