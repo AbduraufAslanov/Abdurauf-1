@@ -27,13 +27,19 @@ span{
 }
 .green{
     color: green;
+   margin-left: 50px;
+   display: inline;
 }
 .rauf{
     font-size: 50px;
     margin-left: 50px;
+    display: inline;
 }
 .w{
-    margin-left: 1000px;
+    padding-left: 700px;
+    display: inline;
+    width: 300px;
+    position: fixed;
     
 }
 
