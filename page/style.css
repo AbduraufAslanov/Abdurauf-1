@@ -1,3 +1,7 @@
-.end{
-   text-align: end; 
+.start{
+   text-align: start;
+}
+span{
+ margin-right: 25px;
+text-align: end;
 }
