@@ -65,4 +65,16 @@ span{
     margin-right: 85px;
     
 }
-
+.l{
+  color: grey; 
+  text-align: center; 
+  font-size: 35px;
+}
+.c{
+ text-align: center;   
+}
+.j{
+    width: 80px;
+    margin-right: 360px;
+    text-align: center;
+}
