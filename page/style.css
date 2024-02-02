@@ -1,6 +1,7 @@
 .start{
    text-align: start;
    display: inline;
+   margin-right: 250px;
 }
 span{
  margin-right: 25px;
@@ -10,3 +11,18 @@ span{
     text-align: center;
     display: inline;
 }
+.p2{
+    text-align: right;
+    display: inline;
+    color: green;
+    margin-left: 350px;
+    margin-right: 35px;
+}
+.p3{
+    background-color: green;
+    display: inline;
+    border-radius: 5px;
+    color: aliceblue;
+
+}
+
