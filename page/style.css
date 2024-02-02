@@ -2,6 +2,7 @@
    text-align: start;
    display: inline;
    margin-right: 250px;
+   color: black;
 }
 span{
  margin-right: 25px;
@@ -34,6 +35,7 @@ span{
     font-size: 50px;
     margin-left: 50px;
     display: inline;
+    color: black;
 }
 .w{
     padding-left: 700px;
@@ -69,12 +71,39 @@ span{
   color: grey; 
   text-align: center; 
   font-size: 35px;
+  
 }
 .c{
  text-align: center;   
 }
 .j{
-    width: 80px;
-    margin-right: 360px;
+    width: 50px;
+    margin-left: 50px;
+    display: inline;
+}
+.f{
+    color: grey;
+}
+.v{
+    color: gray;
+}
+
+
+.j2{
+   width: 50px;
+   margin-left: 550px;
+   display: inline; 
+}
+.x{
+    color: gray;
+    text-align: center;
+}
+.j3{
+    width: 50px;
+    margin-left: 550px;
+    display: inline;
+    float: inline-end;
+}
+.g{
     text-align: center;
 }
