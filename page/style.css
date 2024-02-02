@@ -42,4 +42,14 @@ span{
     position: fixed;
     
 }
+.r{
+    margin-left: 50px;
+}
+.border{
+    background-color: green;
+    color: aliceblue;
+    border-radius: 5px;
+    display: inline;
+    margin-left: 50px;
+}
 
